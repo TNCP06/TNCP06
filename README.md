@@ -13,15 +13,5 @@
 
 ## Hi there, I'm Tionusa Catur Pamungkas👋
 
-| <a href="https://github.com/TNCP06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TNCP06&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TNCP06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNCP06&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/TNCP06/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TNCP06&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/TNCP06/TNCP06.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TNCP06&repo=TNCP06.github.io&theme=buefy" />
-</a>
+![Tionusa Catur Pamungkas GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNCP06&layout=compact&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNCP06&layout=compact&show_icons=true&hide_border=false)](https://github.com/TNCP06)
