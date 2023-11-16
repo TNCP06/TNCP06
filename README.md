@@ -20,7 +20,7 @@
 ### Connect with me
 
 &nbsp;&nbsp;
-[![website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_Developer.jfg.png&psig=AOvVaw2xZkp29DMxtsLkYOmwZIu_&ust=1700253518739000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjbsYqwyYIDFQAAAAAdAAAAABAI)](https://g.dev/tionusa)
+[![website](https://upload.wikimedia.org/wikipedia/commons/7/77/Google_Developer.jfg.png)](https://g.dev/tionusa)
 &nbsp;&nbsp;
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/linkedin-light.svg)](https://linkedin.com/in/tncp/#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/linkedin-dark.svg)](https://linkedin.com/in/tncp/#gh-dark-mode-only)
