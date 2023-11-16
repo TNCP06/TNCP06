@@ -11,7 +11,8 @@
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Tionusa Catur Pamungkas👋
+![image](https://img.freepik.com/premium-vector/programmer-typographic-header-concept-idea-working_277904-13.jpg?w=2000)
+### Hi there, I'm Tionusa Catur Pamungkas👋
 
 ![Tionusa Catur Pamungkas GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNCP06&layout=compact&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNCP06&layout=compact&show_icons=true&hide_border=false)](https://github.com/TNCP06)
