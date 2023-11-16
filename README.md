@@ -20,8 +20,7 @@
 ### Connect with me
 
 &nbsp;&nbsp;
-[![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/github-light.svg)](https://github.com/TNCP06/#gh-light-mode-only)
-[![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/github-dark.svg)](https://github.com/TNCP06/#gh-dark-mode-only)
+[![website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_Developer.jfg.png&psig=AOvVaw2xZkp29DMxtsLkYOmwZIu_&ust=1700253518739000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjbsYqwyYIDFQAAAAAdAAAAABAI)](https://g.dev/tionusa)
 &nbsp;&nbsp;
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/linkedin-light.svg)](https://linkedin.com/in/tncp/#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/linkedin-dark.svg)](https://linkedin.com/in/tncp/#gh-dark-mode-only)
@@ -29,6 +28,6 @@
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/instagram-light.svg)](https://instagram.com/tionusacp_#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/instagram-dark.svg)](https://instagram.com/tionusacp_#gh-dark-mode-only)
 
-[Github]: https://www.github.com/TNCP06/
+[G.dev]: https://g.dev/tionusa/
 [Instagram]: https://www.instagram.com/tionusacp_/
 [LinkedIn]: https://www.linkedin.com/in/tncp/
