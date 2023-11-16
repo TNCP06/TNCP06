@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/github-light.svg)](https://github.com/TNCP06/#gh-light-mode-only)
-[![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/globe-dark.svg)](https://github.com/TNCP06/#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/github-dark.svg)](https://github.com/TNCP06/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/linkedin-light.svg)](https://linkedin.com/in/tncp/#gh-light-mode-only)
 [![website](https://raw.githubusercontent.com/KevinASaputra/KevinASaputra/6611ffbb80e2b169c6b723a157af91c19e33b090/img/linkedin-dark.svg)](https://linkedin.com/in/tncp/#gh-dark-mode-only)
